@@ -13,7 +13,7 @@ Training Accuracy: 78.3%
 
 ### Logistic Regression
 
- Accuracy: 78.8%
+ Training Accuracy: 78.8%
 
 ### Random Forest
 
