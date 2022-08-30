@@ -17,4 +17,4 @@ Training Accuracy: 78.3%
 
 ### Random Forest
 
-Accuracy: 81.3%
+Training Accuracy: 81.3%
