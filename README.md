@@ -9,11 +9,11 @@ Training and testing data was downloaded from Kaggle.com.
 
 ### Linear Regression
 
-Accuracy: 78.3%
+Training Accuracy: 78.3%
 
 ### Logistic Regression
 
-Accuracy: 78.8%
+ Accuracy: 78.8%
 
 ### Random Forest
 
